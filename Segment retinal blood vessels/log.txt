@@ -1,0 +1,714 @@
+length of train dataset is 20
+length of val dataset is 20
+
+For Epoch:  1, Average Loss: 0.037
+percision: 0.9301739926739927
+recall: 0.8731000100282222
+F1: 0.9007337998714187
+acc: 0.98898302304601
+Time pass: 0 hours, 0 minutes, 7 seconds.
+
+For Epoch:  2, Average Loss: 0.018
+percision: 0.9246693822889348
+recall: 0.8902375256077819
+F1: 0.907126838641162
+acc: 0.9895642991880588
+Time pass: 0 hours, 0 minutes, 13 seconds.
+
+For Epoch:  3, Average Loss: 0.017
+percision: 0.9431049645500463
+recall: 0.8680178502356632
+F1: 0.9040048937511422
+acc: 0.9894464036742393
+Time pass: 0 hours, 0 minutes, 19 seconds.
+
+For Epoch:  4, Average Loss: 0.017
+percision: 0.9290857042092349
+recall: 0.8868959786828646
+F1: 0.9075007558475111
+acc: 0.9896495940293611
+Time pass: 0 hours, 0 minutes, 25 seconds.
+
+For Epoch:  5, Average Loss: 0.016
+percision: 0.9421599864548701
+recall: 0.8768999899717778
+F1: 0.9083593651453207
+acc: 0.9898708275239891
+Time pass: 0 hours, 0 minutes, 31 seconds.
+
+For Epoch:  6, Average Loss: 0.016
+percision: 0.9246884801377226
+recall: 0.8964621864389782
+F1: 0.91035659145919
+acc: 0.9898927663413434
+Time pass: 0 hours, 0 minutes, 37 seconds.
+
+For Epoch:  7, Average Loss: 0.016
+percision: 0.9423761958626508
+recall: 0.8802164663409882
+F1: 0.9102363487880714
+acc: 0.9900613056671861
+Time pass: 0 hours, 0 minutes, 43 seconds.
+
+For Epoch:  8, Average Loss: 0.015
+percision: 0.9233193470450441
+recall: 0.8992485996303884
+F1: 0.9111250215460541
+acc: 0.9899567374723202
+Time pass: 0 hours, 0 minutes, 49 seconds.
+
+For Epoch:  9, Average Loss: 0.015
+percision: 0.9519820428957796
+recall: 0.867330200707706
+F1: 0.9076867142932107
+acc: 0.9899003526613631
+Time pass: 0 hours, 0 minutes, 55 seconds.
+
+For Epoch: 10, Average Loss: 0.015
+percision: 0.9087029830923495
+recall: 0.9091228170708995
+F1: 0.9089128516004747
+acc: 0.9895683999015829
+Time pass: 0 hours, 1 minutes, 1 seconds.
+
+For Epoch: 11, Average Loss: 0.015
+percision: 0.9428524260364116
+recall: 0.8795503058607796
+F1: 0.9101019496811061
+acc: 0.9900524891331092
+Time pass: 0 hours, 1 minutes, 7 seconds.
+
+For Epoch: 12, Average Loss: 0.015
+percision: 0.9387011290898184
+recall: 0.8855350056587826
+F1: 0.9113433220913731
+acc: 0.9901365537603543
+Time pass: 0 hours, 1 minutes, 14 seconds.
+
+For Epoch: 13, Average Loss: 0.015
+percision: 0.921910635582966
+recall: 0.9004949643998109
+F1: 0.9110769687899727
+acc: 0.9899368490117281
+Time pass: 0 hours, 1 minutes, 20 seconds.
+
+For Epoch: 14, Average Loss: 0.015
+percision: 0.9480691273735865
+recall: 0.8753133819463347
+F1: 0.9102397220096202
+acc: 0.9901170753711146
+Time pass: 0 hours, 1 minutes, 26 seconds.
+
+For Epoch: 15, Average Loss: 0.015
+percision: 0.9258154233285018
+recall: 0.9013115482142602
+F1: 0.9133991731907649
+acc: 0.9902156975313705
+Time pass: 0 hours, 1 minutes, 32 seconds.
+
+For Epoch: 16, Average Loss: 0.015
+percision: 0.9276260135571932
+recall: 0.8993632078850479
+F1: 0.9132760034696144
+acc: 0.9902216435659805
+Time pass: 0 hours, 1 minutes, 38 seconds.
+
+For Epoch: 17, Average Loss: 0.015
+percision: 0.9421426689224024
+recall: 0.8835615947738635
+F1: 0.9119122911749649
+acc: 0.9902277946362668
+Time pass: 0 hours, 1 minutes, 44 seconds.
+
+For Epoch: 18, Average Loss: 0.015
+percision: 0.9284985584386782
+recall: 0.8996604730455711
+Model saved in epoch 18, acc: 0.9138520642034954.
+F1: 0.9138520642034954
+acc: 0.9902895103748052
+Time pass: 0 hours, 1 minutes, 52 seconds.
+
+For Epoch: 19, Average Loss: 0.015
+percision: 0.9380075307353809
+recall: 0.8886365915505064
+F1: 0.9126548568401849
+acc: 0.9902624456655458
+Time pass: 0 hours, 1 minutes, 59 seconds.
+
+For Epoch: 20, Average Loss: 0.015
+percision: 0.932590053377398
+recall: 0.8954450381788749
+F1: 0.913640159107478
+acc: 0.9903089887640449
+Time pass: 0 hours, 2 minutes, 5 seconds.
+
+For Epoch: 21, Average Loss: 0.015
+percision: 0.9246070068629215
+recall: 0.901827285360228
+F1: 0.9130750890679818
+acc: 0.9901699745755761
+Time pass: 0 hours, 2 minutes, 11 seconds.
+
+For Epoch: 22, Average Loss: 0.015
+percision: 0.9390935755511401
+recall: 0.88868673266192
+F1: 0.9131950897712154
+acc: 0.9903278520462561
+Time pass: 0 hours, 2 minutes, 17 seconds.
+
+For Epoch: 23, Average Loss: 0.015
+percision: 0.9465666264650401
+recall: 0.8770145982264372
+F1: 0.9104642429560446
+acc: 0.9901250717624867
+Time pass: 0 hours, 2 minutes, 23 seconds.
+
+For Epoch: 24, Average Loss: 0.015
+percision: 0.9170073056183684
+recall: 0.9063005887999083
+F1: 0.9116225115461377
+acc: 0.9899401295825474
+Time pass: 0 hours, 2 minutes, 29 seconds.
+
+For Epoch: 25, Average Loss: 0.015
+percision: 0.9498096468862421
+recall: 0.8765597467157572
+F1: 0.9117157858857757
+acc: 0.9902815139834331
+Time pass: 0 hours, 2 minutes, 35 seconds.
+
+For Epoch: 26, Average Loss: 0.015
+percision: 0.9356536043445929
+recall: 0.8922574960961563
+F1: 0.9134404206249976
+acc: 0.9903190355121791
+Time pass: 0 hours, 2 minutes, 42 seconds.
+
+For Epoch: 27, Average Loss: 0.015
+percision: 0.9268328656605248
+recall: 0.9002406773347851
+F1: 0.9133432531571747
+acc: 0.9902204133519232
+Time pass: 0 hours, 2 minutes, 48 seconds.
+
+For Epoch: 28, Average Loss: 0.015
+percision: 0.9356742899548
+recall: 0.8941270432502901
+Model saved in epoch 28, acc: 0.9144289832352307.
+F1: 0.9144289832352307
+acc: 0.9904199130648733
+Time pass: 0 hours, 2 minutes, 56 seconds.
+
+For Epoch: 29, Average Loss: 0.015
+percision: 0.9328505350413907
+recall: 0.8963833932638998
+F1: 0.9142534643266138
+acc: 0.990374190109079
+Time pass: 0 hours, 3 minutes, 2 seconds.
+
+For Epoch: 30, Average Loss: 0.014
+percision: 0.9324329863867243
+recall: 0.896129106198874
+F1: 0.9139206615615292
+acc: 0.9903360534733043
+Time pass: 0 hours, 3 minutes, 8 seconds.
+
+For Epoch: 31, Average Loss: 0.014
+percision: 0.9405590827252914
+recall: 0.8887261292494592
+F1: 0.9139082603947797
+acc: 0.9904143771016157
+Time pass: 0 hours, 3 minutes, 14 seconds.
+
+For Epoch: 32, Average Loss: 0.014
+percision: 0.946264532590332
+recall: 0.8806355027720871
+F1: 0.9122711985144484
+acc: 0.9903036578364636
+Time pass: 0 hours, 3 minutes, 20 seconds.
+
+For Epoch: 33, Average Loss: 0.015
+percision: 0.9244770970140235
+recall: 0.9040514018022148
+F1: 0.91415016613702
+acc: 0.9902790535553186
+Time pass: 0 hours, 3 minutes, 27 seconds.
+
+For Epoch: 34, Average Loss: 0.014
+percision: 0.9423377512407538
+recall: 0.8874367863845394
+F1: 0.914063638392569
+acc: 0.9904471828098089
+Time pass: 0 hours, 3 minutes, 33 seconds.
+
+For Epoch: 35, Average Loss: 0.014
+percision: 0.9412966867355249
+recall: 0.885839433835222
+F1: 0.9127264407517703
+acc: 0.9903018125153776
+Time pass: 0 hours, 3 minutes, 39 seconds.
+
+For Epoch: 36, Average Loss: 0.015
+percision: 0.9216007232930248
+recall: 0.9053908857785482
+F1: 0.9134238942897456
+acc: 0.9901744853604527
+Time pass: 0 hours, 3 minutes, 45 seconds.
+
+For Epoch: 37, Average Loss: 0.014
+percision: 0.9470149715895896
+recall: 0.8762768075870665
+F1: 0.9102736770045837
+acc: 0.9901103091937997
+Time pass: 0 hours, 3 minutes, 51 seconds.
+
+For Epoch: 38, Average Loss: 0.015
+percision: 0.9375153222673561
+recall: 0.8902554331475725
+F1: 0.9132743883060317
+acc: 0.9903204707619125
+Time pass: 0 hours, 3 minutes, 58 seconds.
+
+For Epoch: 39, Average Loss: 0.014
+percision: 0.9200059397047532
+recall: 0.9097782330272338
+Model saved in epoch 39, acc: 0.914863502124901.
+F1: 0.914863502124901
+acc: 0.9903063233002543
+Time pass: 0 hours, 4 minutes, 6 seconds.
+
+For Epoch: 40, Average Loss: 0.015
+percision: 0.9506392846859606
+recall: 0.8750340243256021
+F1: 0.9112711621019809
+acc: 0.9902448125973919
+Time pass: 0 hours, 4 minutes, 12 seconds.
+
+For Epoch: 41, Average Loss: 0.015
+percision: 0.9260349796210172
+recall: 0.8999863902697591
+F1: 0.9128248905679569
+acc: 0.9901591076847371
+Time pass: 0 hours, 4 minutes, 18 seconds.
+
+For Epoch: 42, Average Loss: 0.014
+percision: 0.9323154573194528
+recall: 0.8984069452602323
+Model saved in epoch 42, acc: 0.9150471757476714.
+F1: 0.9150471757476714
+acc: 0.9904500533092758
+Time pass: 0 hours, 4 minutes, 26 seconds.
+
+For Epoch: 43, Average Loss: 0.014
+percision: 0.9360951399943815
+recall: 0.8950689798432732
+Model saved in epoch 43, acc: 0.9151224763679838.
+F1: 0.9151224763679838
+acc: 0.990494751086689
+Time pass: 0 hours, 4 minutes, 34 seconds.
+
+For Epoch: 44, Average Loss: 0.014
+percision: 0.9312831672726057
+recall: 0.8981526581952065
+F1: 0.9144179211691714
+acc: 0.9903754203231362
+Time pass: 0 hours, 4 minutes, 40 seconds.
+
+For Epoch: 45, Average Loss: 0.014
+percision: 0.944948112013622
+recall: 0.8824799793705141
+F1: 0.912646351807336
+acc: 0.9903288772246371
+Time pass: 0 hours, 4 minutes, 46 seconds.
+
+For Epoch: 46, Average Loss: 0.014
+percision: 0.938924123204397
+recall: 0.8944851940461012
+Model saved in epoch 46, acc: 0.9161660941033621.
+F1: 0.9161660941033621
+acc: 0.9906284343475765
+Time pass: 0 hours, 4 minutes, 54 seconds.
+
+For Epoch: 47, Average Loss: 0.014
+percision: 0.9196375954909127
+recall: 0.9110245977966563
+F1: 0.9153108351969831
+acc: 0.9903487656852292
+Time pass: 0 hours, 5 minutes, 1 seconds.
+
+For Epoch: 48, Average Loss: 0.014
+percision: 0.9383280346657313
+recall: 0.8911078320416028
+F1: 0.9141085248533635
+acc: 0.9904131468875584
+Time pass: 0 hours, 5 minutes, 7 seconds.
+
+For Epoch: 49, Average Loss: 0.014
+percision: 0.9522151060414816
+recall: 0.8754136641691618
+F1: 0.9122006926613722
+acc: 0.9903526613630772
+Time pass: 0 hours, 5 minutes, 13 seconds.
+
+For Epoch: 50, Average Loss: 0.015
+percision: 0.9254803651432874
+recall: 0.9070312164233629
+F1: 0.9161629206776425
+acc: 0.990496596407775
+Time pass: 0 hours, 5 minutes, 19 seconds.
+
+For Epoch: 51, Average Loss: 0.014
+percision: 0.9340313588329372
+recall: 0.8952265661934301
+F1: 0.9142173715857387
+acc: 0.9903821865004511
+Time pass: 0 hours, 5 minutes, 25 seconds.
+
+For Epoch: 52, Average Loss: 0.014
+percision: 0.9354637016279087
+recall: 0.8895033164763693
+F1: 0.9119047706469178
+acc: 0.9901611580414992
+Time pass: 0 hours, 5 minutes, 32 seconds.
+
+For Epoch: 53, Average Loss: 0.014
+percision: 0.9191850139797664
+recall: 0.9101614543787516
+F1: 0.9146509790654024
+acc: 0.9902757729844993
+Time pass: 0 hours, 5 minutes, 38 seconds.
+
+For Epoch: 54, Average Loss: 0.015
+percision: 0.9571612166214479
+recall: 0.8642465223557727
+F1: 0.9083339607016488
+acc: 0.9900139424259822
+Time pass: 0 hours, 5 minutes, 44 seconds.
+
+For Epoch: 55, Average Loss: 0.015
+percision: 0.9205464631649265
+recall: 0.9081235763505866
+F1: 0.9142928229389027
+acc: 0.9902530140244402
+Time pass: 0 hours, 5 minutes, 50 seconds.
+
+For Epoch: 56, Average Loss: 0.014
+percision: 0.9455308012862329
+recall: 0.8825229574660115
+F1: 0.912941028272492
+acc: 0.9903641433609448
+Time pass: 0 hours, 5 minutes, 56 seconds.
+
+For Epoch: 57, Average Loss: 0.014
+percision: 0.9348081338388937
+recall: 0.8953483374640059
+F1: 0.9146528415514473
+acc: 0.9904342655622078
+Time pass: 0 hours, 6 minutes, 2 seconds.
+
+For Epoch: 58, Average Loss: 0.014
+percision: 0.929134439665516
+recall: 0.9013581078177155
+F1: 0.9150355313892418
+acc: 0.9904172476010826
+Time pass: 0 hours, 6 minutes, 9 seconds.
+
+For Epoch: 59, Average Loss: 0.014
+percision: 0.9364284374413806
+recall: 0.893962293884217
+F1: 0.9147027458855692
+acc: 0.990455179201181
+Time pass: 0 hours, 6 minutes, 15 seconds.
+
+For Epoch: 60, Average Loss: 0.014
+percision: 0.9449355771960924
+recall: 0.882021546351876
+F1: 0.9123952918860242
+acc: 0.9903034528007874
+Time pass: 0 hours, 6 minutes, 21 seconds.
+
+For Epoch: 61, Average Loss: 0.014
+percision: 0.9156701127447273
+recall: 0.9107344956520493
+F1: 0.9131956352719157
+acc: 0.990087960305093
+Time pass: 0 hours, 6 minutes, 27 seconds.
+
+For Epoch: 62, Average Loss: 0.014
+percision: 0.9392311540964612
+recall: 0.8942058364253685
+F1: 0.916165632184119
+acc: 0.9906313048470434
+Time pass: 0 hours, 6 minutes, 33 seconds.
+
+For Epoch: 63, Average Loss: 0.014
+percision: 0.9486265432098765
+recall: 0.8806355027720871
+F1: 0.9133674583775994
+acc: 0.9904363159189699
+Time pass: 0 hours, 6 minutes, 40 seconds.
+
+For Epoch: 64, Average Loss: 0.014
+percision: 0.9295812108204751
+recall: 0.9012721516267209
+F1: 0.9152078207597091
+acc: 0.990439391454113
+Time pass: 0 hours, 6 minutes, 46 seconds.
+
+For Epoch: 65, Average Loss: 0.014
+percision: 0.9160381288969341
+recall: 0.9134528601922554
+F1: 0.9147436679124017
+acc: 0.9902521938817355
+Time pass: 0 hours, 6 minutes, 52 seconds.
+
+For Epoch: 66, Average Loss: 0.014
+percision: 0.9324427594189135
+recall: 0.9002227697949945
+F1: 0.9160495356939807
+acc: 0.9905540063971131
+Time pass: 0 hours, 6 minutes, 58 seconds.
+
+For Epoch: 67, Average Loss: 0.014
+percision: 0.9446656035732177
+recall: 0.8847434924000401
+F1: 0.9137231766204993
+acc: 0.9904348806692365
+Time pass: 0 hours, 7 minutes, 4 seconds.
+
+For Epoch: 68, Average Loss: 0.014
+percision: 0.9322192861662139
+recall: 0.8970889503316476
+F1: 0.9143167938791973
+acc: 0.9903743951447552
+Time pass: 0 hours, 7 minutes, 11 seconds.
+
+For Epoch: 69, Average Loss: 0.014
+percision: 0.9166938639371367
+recall: 0.9154298525851324
+F1: 0.9160614222303459
+acc: 0.990395923890757
+Time pass: 0 hours, 7 minutes, 17 seconds.
+
+For Epoch: 70, Average Loss: 0.014
+percision: 0.9376790589504196
+recall: 0.8967379625517528
+Model saved in epoch 70, acc: 0.9167516426140494.
+F1: 0.9167516426140494
+acc: 0.9906764126958091
+Time pass: 0 hours, 7 minutes, 25 seconds.
+
+For Epoch: 71, Average Loss: 0.014
+percision: 0.9414769982234632
+recall: 0.8863766600289386
+F1: 0.9130963339562392
+acc: 0.9903409743295334
+Time pass: 0 hours, 7 minutes, 31 seconds.
+
+For Epoch: 72, Average Loss: 0.014
+percision: 0.9359544099963403
+recall: 0.8976261765253642
+F1: 0.9163896963381414
+acc: 0.9906228983843188
+Time pass: 0 hours, 7 minutes, 37 seconds.
+
+For Epoch: 73, Average Loss: 0.014
+percision: 0.9301616222715637
+recall: 0.9032240734638912
+F1: 0.9164949540100812
+acc: 0.9905773804642007
+Time pass: 0 hours, 7 minutes, 43 seconds.
+
+For Epoch: 74, Average Loss: 0.014
+percision: 0.9411336106135584
+recall: 0.8882139736114494
+F1: 0.9139083585763667
+acc: 0.9904199130648733
+Time pass: 0 hours, 7 minutes, 50 seconds.
+
+For Epoch: 75, Average Loss: 0.014
+percision: 0.9330770801998032
+recall: 0.8998359669355185
+F1: 0.9161550985729575
+acc: 0.9905710243582383
+Time pass: 0 hours, 7 minutes, 56 seconds.
+
+For Epoch: 76, Average Loss: 0.014
+percision: 0.9425472565725969
+recall: 0.8882856037706116
+F1: 0.9146123352078916
+acc: 0.9905047978348233
+Time pass: 0 hours, 8 minutes, 2 seconds.
+
+For Epoch: 77, Average Loss: 0.014
+percision: 0.9389691326895431
+recall: 0.8935898170565735
+F1: 0.9157176151065275
+acc: 0.9905831214631345
+Time pass: 0 hours, 8 minutes, 8 seconds.
+
+For Epoch: 78, Average Loss: 0.014
+percision: 0.9362791430371771
+recall: 0.8940410870592954
+F1: 0.9146727540543907
+acc: 0.9904506684163045
+Time pass: 0 hours, 8 minutes, 14 seconds.
+
+For Epoch: 79, Average Loss: 0.014
+percision: 0.9298818270337258
+recall: 0.9029590418749911
+F1: 0.9162226986953519
+acc: 0.9905466251127696
+Time pass: 0 hours, 8 minutes, 21 seconds.
+
+For Epoch: 80, Average Loss: 0.014
+percision: 0.9261116769121429
+recall: 0.9053944672865063
+F1: 0.9156359000177479
+acc: 0.9904486180595423
+Time pass: 0 hours, 8 minutes, 27 seconds.
+
+For Epoch: 81, Average Loss: 0.014
+percision: 0.9236314288007355
+recall: 0.9067805108662952
+F1: 0.9151284043879783
+acc: 0.9903711145739359
+Time pass: 0 hours, 8 minutes, 33 seconds.
+
+For Epoch: 82, Average Loss: 0.014
+percision: 0.9371949782908687
+recall: 0.8975438018423277
+Model saved in epoch 82, acc: 0.9169409323998237.
+F1: 0.9169409323998237
+acc: 0.990691175264496
+Time pass: 0 hours, 8 minutes, 41 seconds.
+
+For Epoch: 83, Average Loss: 0.014
+percision: 0.9473505931622748
+recall: 0.8814664126183689
+F1: 0.9132217452124838
+acc: 0.9904096612810629
+Time pass: 0 hours, 8 minutes, 47 seconds.
+
+For Epoch: 84, Average Loss: 0.014
+percision: 0.9359753927309648
+recall: 0.8947466441270433
+F1: 0.914896772716869
+acc: 0.9904705568768966
+Time pass: 0 hours, 8 minutes, 53 seconds.
+
+For Epoch: 85, Average Loss: 0.014
+percision: 0.9394067079249826
+recall: 0.8942989556322795
+F1: 0.9162980237313698
+acc: 0.9906464774870828
+Time pass: 0 hours, 9 minutes, 0 seconds.
+
+For Epoch: 86, Average Loss: 0.014
+percision: 0.921528108168965
+recall: 0.9087718292910046
+F1: 0.9151055162750942
+acc: 0.9903471253998196
+Time pass: 0 hours, 9 minutes, 6 seconds.
+
+For Epoch: 87, Average Loss: 0.014
+percision: 0.914946387683725
+recall: 0.9116334541495351
+F1: 0.913286916523296
+acc: 0.9900896005905028
+Time pass: 0 hours, 9 minutes, 12 seconds.
+
+For Epoch: 88, Average Loss: 0.014
+percision: 0.9581332485291779
+recall: 0.8632437001275017
+F1: 0.9082167107533932
+acc: 0.9900114819978676
+Time pass: 0 hours, 9 minutes, 18 seconds.
+
+For Epoch: 89, Average Loss: 0.014
+percision: 0.9245981835997484
+recall: 0.9057096399868201
+F1: 0.9150564481111593
+acc: 0.9903735750020504
+Time pass: 0 hours, 9 minutes, 25 seconds.
+
+For Epoch: 90, Average Loss: 0.015
+percision: 0.9150602800337251
+recall: 0.9095740870736215
+F1: 0.9123089357880557
+acc: 0.9899897482161896
+Time pass: 0 hours, 9 minutes, 31 seconds.
+
+For Epoch: 91, Average Loss: 0.014
+percision: 0.9354058994193662
+recall: 0.8925941578442187
+F1: 0.9134987033694069
+acc: 0.9903225211186747
+Time pass: 0 hours, 9 minutes, 37 seconds.
+
+For Epoch: 92, Average Loss: 0.014
+percision: 0.9400312203529487
+recall: 0.8907389367219174
+F1: 0.9147214973619991
+acc: 0.9904918805872222
+Time pass: 0 hours, 9 minutes, 43 seconds.
+
+For Epoch: 93, Average Loss: 0.014
+percision: 0.925811811569484
+recall: 0.9039905161669269
+F1: 0.9147710490121286
+acc: 0.9903565570409251
+Time pass: 0 hours, 9 minutes, 49 seconds.
+
+For Epoch: 94, Average Loss: 0.014
+percision: 0.9433919857375231
+recall: 0.8869497013022363
+F1: 0.9143005875740005
+acc: 0.9904812187320594
+Time pass: 0 hours, 9 minutes, 56 seconds.
+
+For Epoch: 95, Average Loss: 0.014
+percision: 0.9380384521781455
+recall: 0.8972966777932181
+Model saved in epoch 95, acc: 0.9172153608751284.
+F1: 0.9172153608751284
+acc: 0.9907272615435085
+Time pass: 0 hours, 10 minutes, 4 seconds.
+
+For Epoch: 96, Average Loss: 0.014
+percision: 0.9386975485035344
+recall: 0.8941449507900806
+F1: 0.9158797590485205
+acc: 0.9905970638891167
+Time pass: 0 hours, 10 minutes, 10 seconds.
+
+For Epoch: 97, Average Loss: 0.014
+percision: 0.9202543215070689
+recall: 0.9087252696875493
+F1: 0.9144534586593529
+acc: 0.99026654637907
+Time pass: 0 hours, 10 minutes, 17 seconds.
+
+For Epoch: 98, Average Loss: 0.014
+percision: 0.9189914414625614
+recall: 0.9125897167743506
+F1: 0.9157793914954563
+acc: 0.9903905929631756
+Time pass: 0 hours, 10 minutes, 23 seconds.
+
+For Epoch: 99, Average Loss: 0.014
+percision: 0.9450515558127847
+recall: 0.8889195306791972
+F1: 0.9161265318175107
+acc: 0.9906819486590667
+Time pass: 0 hours, 10 minutes, 29 seconds.
+
+For Epoch: 100, Average Loss: 0.013
+percision: 0.9358025616058723
+recall: 0.8949400455567812
+F1: 0.9149152740959886
+acc: 0.9904707619125728
+Time pass: 0 hours, 10 minutes, 35 seconds.
+
+Final saved model is epoch 95, acc: 0.9172153608751284
+Done.
